@@ -1,0 +1,28 @@
+{
+  "name": "log4node",
+  "version": "1.0.0",
+  "description": "Ultra sleek logging library for node.",
+  "main": "./libs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tilak999/log4node.git"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "node-log",
+    "log",
+    "nodelog",
+    "console-log"
+  ],
+  "author": "Tilak sasmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tilak999/log4node/issues"
+  },
+  "homepage": "https://github.com/Tilak999/log4node#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "dateformat": "^3.0.3"
+  }
+}
